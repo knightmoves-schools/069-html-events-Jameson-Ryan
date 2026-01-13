@@ -8,5 +8,5 @@ function calculateSquare(){
         result = 'Invalid, please enter a number';
     } else {
         result = value;
+    }
 }
-
